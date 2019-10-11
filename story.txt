@@ -2,3 +2,4 @@ X Team 56 Story
 It is a funny story because of all the homework.
 The p2 is really complicated.
 AVL trees are really cool.
+And really difficult.
